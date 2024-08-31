@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://gullsask.github.io/sitemap/sitemap.txt
